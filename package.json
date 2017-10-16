@@ -1,0 +1,36 @@
+{
+  "name": "react_router_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Virgil Xu",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "chai": "^4.1.2",
+    "chai-jquery": "^2.0.0",
+    "jquery": "^3.2.1",
+    "jsdom": "^11.3.0",
+    "mocha": "^4.0.1",
+    "react-addons-test-utils": "^15.6.2",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "lodash": "^4.17.4",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3"
+  }
+}
