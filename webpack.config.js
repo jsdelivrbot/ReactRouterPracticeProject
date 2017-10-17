@@ -18,5 +18,9 @@ module.exports = {
           presets: ['react']
         }
       }]
+  },
+  devServer: {
+  historyApiFallback: true,
+  contentBase: './'
   }
 };
